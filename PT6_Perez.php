@@ -55,7 +55,7 @@
     function computeTotal($values){
         return array_sum($values);
     }
-ts
+
     $lumber = 150000;
     $concrete = 78000;
     $drywall = 69000;
@@ -122,3 +122,4 @@ ts
 
 </body>
 </html>
+
